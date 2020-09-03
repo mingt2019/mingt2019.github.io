@@ -1,37 +1,49 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Euhanna Ghadimi 
+==Ming Tang
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
-PhD,\n [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Automatic Control Department], \n[http://www.kth.se Royal Institute of Technology (KTH)]\n
-Osquldas v\&aumlg 10 \n
-100 44 Stockholm, Sweden \n 
-Phone: \+46 8 790 7000 \n
-Fax: \+46 8 790 7329\n
-E-post: /euhanna/ \[@\] kth \[DOT\] se
+{}{img_left}{photos/bio.jpeg}{alt text}{109}{160}{http://mingtang.website}
+Postdoctoral Research Fellow,\n 
+Electrical and Computer Engineering,\n
+The University of British Columbia\n
+\n
+E-mail: mingt \[@\] ece \[DOT\] ubc \[DOT\] ca \n
+\n
+[cv.pdf CV] (updated Sep. 2, 2020)
 ~~~
 
-== About me
-I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
- [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
+\n
+I am currently working as a postdoctoral research fellow in the Department of Electrical and Computer Engineering ([https://www.ece.ubc.ca ECE]) at The University of British Columbia ([https://www.ubc.ca UBC]), advised by [https://www.ece.ubc.ca/~vincentw/Homepage/Home.html Prof. Vincent W.S. Wong].\n
+
+I received the PhD degree in the Department of Information Engineering ([https://www.ie.cuhk.edu.hk/main/index.shtml, IE]) at The Chinese University of Hong Kong ([https://www.cuhk.edu.hk/english/index.html CUHK]) in 2018, advised by [http://jianwei.ie.cuhk.edu.hk Prof. Jianwei Huang].\n
+
+I received the B.S. degree in the Department of Electronics and Information Engineering from Sichuan University ([http://eie.scu.edu.cn/eneieen/]), China, in 2014. 
 
 == Research
-My research interests include 
-- Convex Optimisation  
-- Distributed Algorithms
-- Real-time Sensor Networking
-- Wireless Networks
-- Machine Learning
+- Distributed learning and crowd intelligence 
+- Mobile edge computing
+- Mobile video streaming and live streaming 
+- Network games and economics
 
-[research.html Find out more].
-=== Recent Publications 
-. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+== Awards
+- Global Scholarship Programme for Research Excellence, CUHK, 2017-2018
+- Overseas Research Attachment Programme, Faculty of Engineering, CUHK, 2017-2018
+- Best-in-Session Presentation Award, IEEE INFOCOM, 2017
+- Student Travel Grant, IEEE Communications Society for attending IEEE INFOCOM, 2017
+- Best Student Presentation Award, Network Communications and Economics Lab, CUHK, 2017
+- Hong Kong PhD Fellowship, Hong Kong, 2014-2017
+- Outstanding Graduates Award and Best Undergraduate Thesis Award, Sichuan University, 2014 
+- Model Student Award (top 30 students in the university), Sichuan University, 2012
+- National Scholarship (ranking 1/328), China, 2011
+
+== Selected Publications
+. *M. Tang*, L. Gao, and J. Huang, \"Communication, Computation, and Caching Resource Sharing for Internet-of-Things,\" IEEE Communications Magazine, vol. 58, no. 4, pp. 75-80, Apr. 2020.
+. *M. Tang*, L. Gao, and J. Huang, \"Enabling Edge Cooperation in Tactile Internet via 3C Resource Sharing,\" IEEE Journal on Selected Areas in Communications (JSAC), vol. 36, no. 11, pp. 2444-2454, Nov. 2018.
+. *M. Tang*, H. Pang, S. Wang, L. Gao, J. Huang, and L. Sun, \"Multi-Dimensional Auction Mechanisms for Crowdsourced Mobile Video Streaming,\" IEEE/ACM Transactions on Networking (ToN), vol. 26, no. 5, pp. 2062-2075, Oct. 2018.
+. *M. Tang*, L. Gao, H. Pang, J. Huang and L. Sun, \"Optimizations and Economics of Crowdsourced Mobile Streaming,\" IEEE Communications Magazine, vol. 55, no. 4, pp. 21 - 27, Apr. 2017.
+. *M. Tang* and J. Huang, \"How to Earn Money in Live Streaming Platforms?A Study of Donation-Based Markets,\" IEEE International Conference on Computer Communications (INFOCOM), Paris, France, Apr. 2019. (Acceptance rate: 19.7%)
+. *M. Tang*, S. Wang, L. Gao, J. Huang and L. Sun, \"MOMD: A Multi-Object Multi-Dimensional Auction for Crowdsourced Mobile Video Streaming,\" IEEE International Conference on Computer Communications (INFOCOM), Atlanta, GA, May 2017. (Acceptance rate: 20.9%)
 
 [publications.html Full list of publications].
-\n
-[cv.pdf A brief cv].
+
 
